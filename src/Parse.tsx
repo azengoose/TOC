@@ -35,7 +35,7 @@ export default function Parse() {
           })}
         </div>
         <p>
-          Entries Displayed: {dummy_toc_data.length} / Total of:{" "}
+          Entries Displayed: {dummy_toc_data.length} from a total of{" "}
           {new_toc_data.length}
         </p>
         <Link onClick={scrollToTop} className="link" to="/all">

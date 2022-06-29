@@ -12,9 +12,13 @@ export default function ParseAll() {
   return (
     <>
       <Title />
-      <Link className="link" to="/">
-        Show Only Some Entries
-      </Link>
+      <p>
+        {" "}
+        Now showing 707 entries.{" "}
+        <Link className="link" to="/">
+          Show Only Some Entries
+        </Link>
+      </p>
       <div className="alltoc-container">
         <div className="grid-wrapper">
           {new_toc_data.map((element, index) => {
