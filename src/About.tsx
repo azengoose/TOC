@@ -7,7 +7,7 @@ export default function About() {
       <div className="">
         <Title />
         <div className="about-container">
-          <h2>About Page</h2>
+          <h2 id="about-title">About Page</h2>
           <p>
             The Table of Contents (TOC) Data on this site has been sourced from
             the Very Short Introductions series.
@@ -19,6 +19,11 @@ export default function About() {
             there may be remaining artifacts such as "1: 2: ..." indicating that
             a chapter one for one of the titles included for example, an
             Introduction.
+          </p>
+          <p>
+            Anyway, the data is not completely clean. There are quite a few
+            strange artifacts and different stylings of the TOCs that lends this
+            particular rendition of the data to being non-uniform.
           </p>
           <p>
             What is most interesting about getting TOC data is that it reveals a

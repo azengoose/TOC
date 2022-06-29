@@ -21,26 +21,51 @@ body {
 .link:hover {
   color: rgb(255, 123, 0);
 }
+#rightlink {
+  position: absolute;
+  right: 45px;
+}
+@font-face {
+  font-family: HK Grotesk;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Regular.otf?v=1603136326027")
+    format("opentype");
+}
+@font-face {
+  font-family: HK Grotesk;
+  font-weight: bold;
+  src: url("https://cdn.glitch.me/605e2a51-d45f-4d87-a285-9410ad350515%2FHKGrotesk-Bold.otf?v=1603136323437")
+    format("opentype");
+}
 
 /* TITLE Section */
+#caps-title {
+  text-underline-offset: 7px;
+  font-size: 2.2em;
+}
 .main-title {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   font-weight: bold;
   color: rgb(165, 0, 0);
+  margin-top: 50px;
 }
 #subtitle {
-  font-family: sans-serif;
-  font-size: 1.3em;
-  font-weight: normal;
-  color: rgb(139, 66, 66);
+  font-family: HK Grotesk;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: rgb(189, 45, 64);
 }
 
 /* ABOUT Page */
 .about-container {
-  max-width: 760px;
+  max-width: 680px;
   margin: auto;
   text-align: left;
+  padding: 10px 20px;
+  font-family: HK Grotesk;
+}
+#about-title {
+  color: rgb(165, 0, 0);
 }
 
 /* MOBILE Styles */
@@ -92,15 +117,19 @@ br {
   }
   /* TITLE */
   .main-title {
-    margin: 50px;
+    margin-top: 108px;
   }
   .element-title {
     margin: 3px 0px;
   }
   /* TOC Elements */
+  .alltoc-container {
+    margin-top: 50px;
+  }
   .grid-wrapper {
     column-count: 4;
     column-gap: 2em;
+    max-width: 1380px;
   }
   .toc-container {
     margin-bottom: 0.5em;
@@ -108,14 +137,11 @@ br {
     border-right: 1.4px solid rgba(250, 128, 114, 0.181);
     border-radius: 80px;
   }
-  .toc {
-  }
 }
 
 @media only screen and (min-width: 1480px) {
   .grid-wrapper {
     column-count: 6;
-    column-gap: 2em;
     max-width: 1480px;
   }
   .toc-container {

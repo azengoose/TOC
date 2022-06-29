@@ -6,6 +6,9 @@ import Title from "./Title";
 import "./styles.css";
 
 export default function ParseAll() {
+  const scrollToTop = () => {
+    window.scrollTo(0, 0);
+  };
   return (
     <>
       <Title />
@@ -32,7 +35,7 @@ export default function ParseAll() {
           <Link className="link" to="/a">
             About
           </Link>
-          <Link className="link" to="/all">
+          <Link id="rightlink" onClick={scrollToTop} className="link" to="/all">
             Top of Page
           </Link>
         </p>
