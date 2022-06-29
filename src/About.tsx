@@ -52,7 +52,7 @@ export default function About() {
               <h3 className="element-title">Genes</h3>
               <div className="toc">
                 <p>
-                  1:Genes before 1944
+                  1: Genes before 1944
                   <br /> 2: Genes as DNA
                   <br /> 3: Mutations and gene variants
                   <br /> 4: Genes as markers
@@ -67,7 +67,7 @@ export default function About() {
               <h3 className="element-title">The Earth</h3>
               <div className="toc">
                 <p>
-                  1:Dynamic Planet
+                  1: Dynamic Planet
                   <br /> 2: Deep Time
                   <br /> 3: Deep Earth
                   <br /> 4: Under the Sea

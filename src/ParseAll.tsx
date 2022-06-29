@@ -30,8 +30,10 @@ export default function ParseAll() {
             );
           })}
         </div>
-        <p>Total Entries Displayed:{new_toc_data.length}</p>
-        <p>
+        <p style={{ marginLeft: 20 }}>
+          Total Entries Displayed:{new_toc_data.length}
+        </p>
+        <p style={{ marginLeft: 20 }}>
           <Link className="link" to="/">
             Show Only Some Entries
           </Link>{" "}
