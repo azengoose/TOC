@@ -5,7 +5,7 @@ import Title from "./Title";
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="main">
       <div className="wrapper">
         <Title />
         <Parse />

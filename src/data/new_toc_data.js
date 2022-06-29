@@ -172,7 +172,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces readers to the role of the American military in the country's past\nExplores how the military is shaping the country and current and future national security issues\nExamines the difference between civilian soldiers and a standing army, professionalism in the military, the growth of mechanization and technology, and the limits of power\n",
     TOC:
-      "<p><i>Dedication<br/></i>   1: Citizen-Soldier and Sailor vs. Standing Armed Forces<br/>  2: The Struggle for Military Professionalism<br/>  3: Technology, Mechanization, and the World Wars<br/>  4: The Limits of Power<br/> <i>Conclusion<br/></i>   </p>"
+      "<p> 1: Citizen-Soldier and Sailor vs. Standing Armed Forces<br/>  2: The Struggle for Military Professionalism<br/>  3: Technology, Mechanization, and the World Wars<br/>  4: The Limits of Power<br/> </p>"
   },
   {
     Title: "American Naval History",
@@ -196,16 +196,14 @@ export const new_toc_data = [
       "<p>  1 The Politics of the Constitution, 1787-89<br/>  2 Contentious People and Factious Parties in the Early Republic, 1789-1824<br/>  3 The Age of Democracy, 1816-1844<br/>  4 The Politics of Slavery: Prelude to the Civil War, 1844-1860<br/>  5 Politics in War and Reconstruction, 1861-1876<br/>  6 Gilded Age Frustration and the Progressive Response, 1877-1918<br/>  7 Affluence, Depression, and World War, 1920-1945<br/>  8 Early Cold War Politics, 1946-74<br/>  9 America Divided, 1974-present<br/>   </p>"
   },
   {
-    Title:
-      "American Political Parties and Elections",
+    Title: "American Political Parties and Elections",
     Overview:
       "\nA former candidate for Congress and a Democratic Party activist, L. Sandy Maisel is one of the best known and prolific scholars in the field of American political parties.\nProvides an insider view of the paradoxical aspects of the American electoral system, demonstrating how these flaws lead to an ineffective and undemocratic democratic system.\nAs another election year approaches, this updated edition allows a better understaning of American electoral system.\n",
     TOC:
       '<p>1 The context of American elections and political parties<br/> 2 A brief history of American political parties<br/> 3 Party organizations: What do they look like? What do they do?<br/> 4 Who are Republicans? Who are Democrats? Who are the "others"?<br/> 5 Presidential elections: Nominating campaigns and general elections<br/> 6 Subnational nominations and elections<br/> 7 Far from the perfect democracy<br/>   </p>'
   },
   {
-    Title:
-      "American Political Parties and Elections",
+    Title: "American Political Parties and Elections",
     Overview:
       "\nL. Sandy Maisel is one of the best known and prolific scholars in the field of American political parties\nProvides an insider view of the paradoxical aspects of the American electoral system, demonstrating how these flaws lead to an ineffective and undemocratic democratic system\nFollowing a highly contentious election season, this updated edition allows a better understanding of American electoral system\n",
     TOC:
@@ -510,7 +508,7 @@ export const new_toc_data = [
     Overview:
       "\nWidely recognized as the best short book on Barthes' work and influence\nBarthes is the most 'reader-friendly' of the great French theorists of the twentieth century, and thus among the most popular.\nJonathan Culler is highly respected and widely published in his field, and also regarded as one of the clearest writers on literary theory\n",
     TOC:
-      "<p> 1:Man of parts<br/> 2:Literary Historian<br/> 3:Mythologist<br/> 4:Critic<br/> 5:Polemicist<br/> 6:Semiologist<br/> 7:Structuralist<br/> 8:Hedonist<br/> 9:Writer<br/> 10:Man of Letters<br/> 11:Barthes after Barthes<br/> Bibliography<br/></p>"
+      "<p> 1:Man of parts<br/> 2:Literary Historian<br/> 3:Mythologist<br/> 4:Critic<br/> 5:Polemicist<br/> 6:Semiologist<br/> 7:Structuralist<br/> 8:Hedonist<br/> 9:Writer<br/> 10:Man of Letters<br/> 11:Barthes after Barthes<br/> </p>"
   },
   {
     Title: "Beauty",
@@ -643,7 +641,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the reader to the vast variety of C. S. Lewis' published work, including his books and many essays, as well as poems, letters, and sermons\nDraws out connections between Lewis's life and his work\nDiscusses major themes of Lewis' works, and analyzes their lasting appeal\nPart of the Very Short Introductions series - over nine million copies sold worldwide\n",
     TOC:
-      "<p> 1:Lewis along the way<br/> 2:Roots<br/> 3:Lewis ascendant<br/> 4:Fame<br/> 5:Darkness and light<br/> 6:A new day<br/> 7:End game<br/> 8:The weight of glory<br/> A readers' list of C. S. Lewis's works by type<br/> Books of particular importance to C. S. Lewis<br/> A selected secondary bibliography<br/> </p>"
+      "<p> 1:Lewis along the way<br/> 2:Roots<br/> 3:Lewis ascendant<br/> 4:Fame<br/> 5:Darkness and light<br/> 6:A new day<br/> 7:End game<br/> 8:The weight of glory<br/> A readers' list of C. S. Lewis's works by type<br/> Books of particular importance to C. S. Lewis<br/> </p>"
   },
   {
     Title: "Calvinism",
@@ -874,7 +872,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores many different forms of comedy from the Greeks to the present\nTakes examples from both high and low culture, and from several different literatures and languages\nDevelops a comparitive approach which allows comic theory and practice to shed new light upon one another\nOffers both close readings and broad overviews of comic styles, tropes and impulses\nWritten in a witty and engaging style\nPart of the bestselling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p> 1:In the beginning...<br/> 2:In and out of character<br/> 3:Plotting mischief<br/> 4:Underdogs<br/> 5:Getting physical<br/> 6:Taking liberties<br/> 7:Beyond a joke<br/> 8:Endgames<br/> Conclusion<br/></p>"
+      "<p> 1:In the beginning...<br/> 2:In and out of character<br/> 3:Plotting mischief<br/> 4:Underdogs<br/> 5:Getting physical<br/> 6:Taking liberties<br/> 7:Beyond a joke<br/> 8:Endgames<br/></p>"
   },
   {
     Title: "Communism",
@@ -958,7 +956,7 @@ export const new_toc_data = [
     Overview:
       "\nA must-read for all students of A level and undergraduate English Literature courses\nWide appeal for the general reader in reading groups\nConsiders the impact of technology on contemporary fiction\nExplores the changing nature of fiction in a globalized world\n",
     TOC:
-      "<p>1: 2:Form<br/> 3:Genre<br/> 4:The past<br/> 5:The present<br/> 6:The future<br/> 7:Conclusion<br/></p>"
+      "<p>1: 2:Form<br/> 3:Genre<br/> 4:The past<br/> 5:The present<br/> 6:The future<br/> </p>"
   },
   {
     Title: "Continental Philosophy",
@@ -1175,7 +1173,7 @@ export const new_toc_data = [
     Overview:
       "\nLooks at the new scientific facts about dreaming and possible answers to long-held questions about the activation, function, and interpretation of dreams\nRelates the science of dreaming and sleep to their interpretation in history and in psychoanalysis\nInvestigates the relationships between dreaming, learning, memory, and consciousness\nExplores how discoveries in the science of dreams have advanced our understanding of mental illness\n",
     TOC:
-      "<p>1:What is dreaming?<br/> 2:Why dream content analysis failed to become a science<br/> 3:How is the brain activated in sleep?<br/> 4:Cells and molecules of the dreaming brain<br/> 5:Why dream? The functions of brain activation in sleep<br/> 6:Disorders of dreaming<br/> 7:Dreaming as delirium: sleep and mental illness<br/> 8:The new neuropsychology of dreaming<br/> 9:Dreaming, learning and memory<br/> 10:Dream consciousness<br/> 11:The interpretation of dreams<br/> Conclusion<br/></p>"
+      "<p>1:What is dreaming?<br/> 2:Why dream content analysis failed to become a science<br/> 3:How is the brain activated in sleep?<br/> 4:Cells and molecules of the dreaming brain<br/> 5:Why dream? The functions of brain activation in sleep<br/> 6:Disorders of dreaming<br/> 7:Dreaming as delirium: sleep and mental illness<br/> 8:The new neuropsychology of dreaming<br/> 9:Dreaming, learning and memory<br/> 10:Dream consciousness<br/> 11:The interpretation of dreams<br/> </p>"
   },
   {
     Title: "Drugs",
@@ -1203,7 +1201,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the exciting research surrounding dyslexia today, including analysis of the potential causes of dyslexia\nDiscusses the neuroscience of dyslexia, and what we have learned about how it works through techniques such as brain scanning\nWeighs up the various strategies and interventions which can help people with dyslexia today, sifting the fact from the fiction\nProvides a brief history of dyslexia since its recognition in 1896\nDraws on cross-linguistic studies to look at dyslexia in various different languages\nPart of the Very Short Introductions series - over nine million copies sold worldwide\n",
     TOC:
-      "<p> 1:Does dyslexia exist?<br/> 2:What is dyslexia?<br/> 3:What role do genetic and environmental factors play in developing dyslexia?<br/> 4:What causes dyslexia<br/> 5:What do we know about the dyslexic brain?<br/> 6:What works for dyslexia?<br/> 7:Conclusions<br/>  </p>"
+      "<p> 1:Does dyslexia exist?<br/> 2:What is dyslexia?<br/> 3:What role do genetic and environmental factors play in developing dyslexia?<br/> 4:What causes dyslexia<br/> 5:What do we know about the dyslexic brain?<br/> 6:What works for dyslexia?<br/> </p>"
   },
   {
     Title: "Earth System Science",
@@ -1735,7 +1733,7 @@ export const new_toc_data = [
     Overview:
       "\nExamines Germany's transition from a traditional feudal society to a modern, industrialised society, exploring how philosophy relates to the social and historical developments\nDiscusses the idea that German philosophy forms one of the most enlightening responses to the problems of 'modernity'\nCovers all the significant thinkers of the eighteenth, nineteenth, and twentieth centuries, but also includes some of the lesser known philosophers of the time\nHighlights the rather neglected ideas of early German Romantic philosophy, including the works of Friedrich Schlegel, Novalis, Schleirmacher, and Schelling\nPart of the bestselling Very Short Introductions series - over three million copies sold worldwide\n",
     TOC:
-      "<p> 1:Kant and Modernity<br/> 2:The Linguistic Turn<br/> 3:German Idealism<br/> 4:'Early Romantic' Philosophy<br/> 5:Marx<br/> 6:Nietzsche, Schopenhauer, and the 'Death of God'<br/> 7:Phenomenology, and the second 'Linguistic Turn'<br/> 8:'Critical Theory'<br/> Conclusion<br/></p>"
+      "<p> 1:Kant and Modernity<br/> 2:The Linguistic Turn<br/> 3:German Idealism<br/> 4:'Early Romantic' Philosophy<br/> 5:Marx<br/> 6:Nietzsche, Schopenhauer, and the 'Death of God'<br/> 7:Phenomenology, and the second 'Linguistic Turn'<br/> 8:'Critical Theory'<br/> </p>"
   },
   {
     Title: "Glaciation",
@@ -1763,7 +1761,7 @@ export const new_toc_data = [
     Overview:
       "\nExplains how Global Islam expanded via different phases and mechanisms of globalization from 1870 to the present-day\nWritten to inform beginners and specialists alike\nOffers a clear definition and interpretive model of Global Islam to explain the interplay between Islam and globalization\n",
     TOC:
-      "<p> Introduction: What Is 'Global Islam'?<br/>  1: Islam in the Age of Empire, Steam and Print<br/>  2: Muslim Transnationalism between Socialism and Nationalism<br/>  3: From Islamic Revolutions to the Internet<br/> Conclusions<br/>  </p>"
+      "<p> Introduction: What Is 'Global Islam'?<br/>  1: Islam in the Age of Empire, Steam and Print<br/>  2: Muslim Transnationalism between Socialism and Nationalism<br/>  3: From Islamic Revolutions to the Internet<br/>  </p>"
   },
   {
     Title: "Globalization",
@@ -1812,7 +1810,7 @@ export const new_toc_data = [
     Overview:
       "\nOffers a concise history of habeas corpus in western law\nDiscusses ongoing debates surrounding the grant and suspension of habeas corpus\nExplores major historical episodes such as World War II internment and the War on Terror\nWritten in clear prose for a general audience\n",
     TOC:
-      "<p>Lists of Illustrations<br/> Acknowledgments<br/>  1: The English origins<br/> 2: The limits and potential of habeas corpus<br/> 3: Revolution<br/> 4: Habeas corpus comes to America<br/> 5: Habeas corpus in the early United States<br/> 6: Civil war and suspension<br/> 7: Reconstruction and expansion of the writ<br/> 8: World War II and the demise of the great writ<br/> 9: Habeas corpus today<br/>   </p>"
+      "<p> 1: The English origins<br/> 2: The limits and potential of habeas corpus<br/> 3: Revolution<br/> 4: Habeas corpus comes to America<br/> 5: Habeas corpus in the early United States<br/> 6: Civil war and suspension<br/> 7: Reconstruction and expansion of the writ<br/> 8: World War II and the demise of the great writ<br/> 9: Habeas corpus today<br/>   </p>"
   },
   {
     Title: "Habermas",
@@ -1910,7 +1908,7 @@ export const new_toc_data = [
     Overview:
       "\nCovers important topics such as atheism, and human nature\nHobbes was the first great English political philosopher\nRichard Tuck is an expert in political philosophy and history\nDiscusses Hobbes' view of the natural human condition as 'nasty, brutish, and short'\nFully updated bibliography for this edition\n",
     TOC:
-      "<p>Part I: Hobbes's lifeThe life of a humanist<br/> The life of a philosopher<br/> The life of a heretic<br/> Part II: Hobbes's workScience<br/> Ethics<br/> Politics<br/> Religion<br/> Part III: Interpretations of HobbesHobbes as a modern natural law theorist<br/> Hobbes as the demon of modernity<br/> Hobbes as the social scientist<br/> Hobbes as a moralist<br/> Hobbes today<br/> Conclusion<br/></p>"
+      "<p>Part I: Hobbes's lifeThe life of a humanist<br/> The life of a philosopher<br/> The life of a heretic<br/> Part II: Hobbes's workScience<br/> Ethics<br/> Politics<br/> Religion<br/> Part III: Interpretations of HobbesHobbes as a modern natural law theorist<br/> Hobbes as the demon of modernity<br/> Hobbes as the social scientist<br/> Hobbes as a moralist<br/> Hobbes today<br/> </p>"
   },
   {
     Title: "Hollywood",
@@ -2008,7 +2006,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces identity, one of the most iconic concepts of our time, which is used ubiquitously but rarely explained\nDiscusses the various uses of 'identity' separately for different fields of study - philosophy, psychology, sociology, gender studies, and linguistics\nCompares Western concepts and theories of identity with similar concepts in other parts of the world.\nExplains how contemporary trends in marketization and globalization have made identity increasingly important to us in the last 50 years\nOutlines the historical background to the concept of identity\nPart of the Very Short Introductions series - over nine million copies sold worldwide\n",
     TOC:
-      '<p>Introduction: an identity wave<br/> 1:"Who am I?" Identity in philosophy<br/> 2:Identity in logic and the classical law of thought<br/> 3:Given or constructed? Identity in cultural anthropology<br/> 4:Adam and Eve, Hijra, LGBTQs and the shake-up of gender identities<br/> 5:Identity politics: promises and dangers<br/> 6:"Your station in life." Social identities in our time<br/> 7:Citizenship, legal status, and proof of identity - identity as a legal concept<br/> 8:Selfhood, character, and personality - the psychology of identity<br/> 9:"They don\'t speak our language." Identity in linguistics<br/> 10:Who is behind the mask? Identity in literature and literary criticism<br/> Conclusions<br/>  </p>'
+      '<p>Introduction: an identity wave<br/> 1:"Who am I?" Identity in philosophy<br/> 2:Identity in logic and the classical law of thought<br/> 3:Given or constructed? Identity in cultural anthropology<br/> 4:Adam and Eve, Hijra, LGBTQs and the shake-up of gender identities<br/> 5:Identity politics: promises and dangers<br/> 6:"Your station in life." Social identities in our time<br/> 7:Citizenship, legal status, and proof of identity - identity as a legal concept<br/> 8:Selfhood, character, and personality - the psychology of identity<br/> 9:"They don\'t speak our language." Identity in linguistics<br/> 10:Who is behind the mask? Identity in literature and literary criticism<br/> </p>'
   },
   {
     Title: "Indian Cinema",
@@ -2064,7 +2062,7 @@ export const new_toc_data = [
     Overview:
       "\nProvides a comprehensive and engaging introduction to copyright, patents, trademarks, and other forms of knowledge that are subject to global law and regulation\nClarifies the fight over the global standardization of intellectual property, one of the most important sites of tension and conflict in North-South global relations today\nMakes readers aware of the intellectual property systems all around them, discussing case studies of famous brands such as Starbucks, Coca-Cola, Amazon, and Google\n",
     TOC:
-      "<p>  1: How to Read Starbucks; or Why Intellectual Property Matters More Than You Think<br/>  2: Copyright, Commerce, and Culture<br/>  3: Patents and their Discontents<br/>  4: Trademarks and the Politics of Branding<br/>  5: Other Rights: Domain Names, Publicity, Trade Secrets, Data, and Designs<br/> Conclusion: The Politics of Resistance and the Access to Knowledge Movement<br/>  Useful Web Sites<br/>  Bibliography<br/> </p>"
+      "<p>  1: How to Read Starbucks; or Why Intellectual Property Matters More Than You Think<br/>  2: Copyright, Commerce, and Culture<br/>  3: Patents and their Discontents<br/>  4: Trademarks and the Politics of Branding<br/>  5: Other Rights: Domain Names, Publicity, Trade Secrets, Data, and Designs<br/> Conclusion: The Politics of Resistance and the Access to Knowledge Movement<br/>  Useful Web Sites<br/>  </p>"
   },
   {
     Title: "Intelligence",
@@ -2127,7 +2125,7 @@ export const new_toc_data = [
     Overview:
       "\nProvides a chronological survey of the origins and subsequent spread of Islam throughout the world\nDemonstrates the cultural and religious diversity of Islamic societies\nExplores the story, sources, and significance of Islamic history and considers the way it shaped the present state of Muslim societies\nRelates the subjects relevance to the modern world\n",
     TOC:
-      "<p>1:The story of Islamic history<br/> 2:Peoples and cultures<br/> 3:Institutions<br/> 4:The sources<br/> 5:Competing approaches<br/> 6:Religious significance<br/> 7:Political significance<br/> Conclusions<br/> </p>"
+      "<p>1:The story of Islamic history<br/> 2:Peoples and cultures<br/> 3:Institutions<br/> 4:The sources<br/> 5:Competing approaches<br/> 6:Religious significance<br/> 7:Political significance<br/></p>"
   },
   {
     Title: "Islamic Law",
@@ -2252,7 +2250,7 @@ export const new_toc_data = [
     Overview:
       "\nKierkegaard is a seminal figure in the development of existentialism\nKierkegaard is widely read by non-philosophers for his insights into the human condition and religious belief\n",
     TOC:
-      "<p>1:Life and character<br/> 2:Philosophical background<br/> 3:The immorality of an age<br/> 4:Modes of existence<br/> 5:Truth and subjectivity<br/> 6:Freedom and the self<br/> 7:Conclusion<br/></p>"
+      "<p>1:Life and character<br/> 2:Philosophical background<br/> 3:The immorality of an age<br/> 4:Modes of existence<br/> 5:Truth and subjectivity<br/> 6:Freedom and the self<br/> </p>"
   },
   {
     Title: "Knowledge",
@@ -2329,7 +2327,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the German polymath and philosopher Gottfried Wilhelm Leibniz and discusses his philosophy, and how his intellectual visions were shaped by his own experiences in life\nDiscusses Leibniz's great master project, the systematic reform and advancement of all the sciences, to be undertaken as a collaborative enterprise supported by an enlightened ruler, with the goal of the improvement of the human condition and the celebration thereby of the glory of God in His creation\nUncovers what it was, for Leibniz, to be a substance, and how this conception informed his doctrine of simple substances (or monads), and his theory of corporeal substances and bodies\nExamines Leibniz's philosophy as the product of a multi-layered conversation with centuries of past thought and hundreds of individuals of his own era, whose insights were reshaped and remodelled into a strikingly original outlook\nPart of the Very Short Introductions series - over seven million copies sold worldwide\n",
     TOC:
-      "<p>1:Who was Leibniz?<br/> 2:Characteristica universalis, logical calculus, and mathematics<br/> 3:Encyclopaedia, Scientia Generalis, and the Academies of Sciences<br/> 4:Possible worlds, the principle of non-contradiction, and the principle of sufficient reason<br/> 5:Complete-concept theory, theory of truth, and theory of knowledge<br/> 6:The best of all possible worlds and Leibniz's theodicy<br/> 7:What is ultimately real - unity and activity<br/> 8:Monads<br/> 9:Monads, corporeal substances, and bodies<br/> Conclusion<br/>   </p>"
+      "<p>1:Who was Leibniz?<br/> 2:Characteristica universalis, logical calculus, and mathematics<br/> 3:Encyclopaedia, Scientia Generalis, and the Academies of Sciences<br/> 4:Possible worlds, the principle of non-contradiction, and the principle of sufficient reason<br/> 5:Complete-concept theory, theory of truth, and theory of knowledge<br/> 6:The best of all possible worlds and Leibniz's theodicy<br/> 7:What is ultimately real - unity and activity<br/> 8:Monads<br/> 9:Monads, corporeal substances, and bodies<br/>  </p>"
   },
   {
     Title: "Leo Tolstoy",
@@ -2378,7 +2376,7 @@ export const new_toc_data = [
     Overview:
       "\nExplains the basics of modern formal logic in non-technical terms\nShows how logic and the rest of philosophy interrelate\nCovers non-classical as well as classical logic\nContains a problem for each  so that readers can test their understanding\nPart of the Very Short Introductions series - over eight million copies sold worldwide\n",
     TOC:
-      "<p>1:Validity: what follows from what?<br/> 2:Truth funtions - or not?<br/> 3:Names and quantifiers: is nothing something?<br/> 4:Descriptions and existence: did the Greeks worship Zeus?<br/> 5:Self-reference: What is this  about?<br/> 6:Necessity and possibility: what will be must be?<br/> 7:Conditionals: what's in an <i>if</i>?<br/> 8:The future and the past: is time real?<br/> 9:Identity and change: is anything ever the same?<br/> 10:Vagueness: how do you stop sliding down a slippery slope?<br/> 11:Probability: the strange case of the missing reference class<br/> 12:Inverse probability: you can't be indifferent about it!<br/> 13:Decision theory: great expectations<br/> 14:Halt! What goes there?<br/> 15:Maybe it is true - but you can't prove it!<br/> A little history and some further reading<br/>  Problems<br/> Problem solutions<br/> Bibliography<br/> General index<br/></p>"
+      "<p>1:Validity: what follows from what?<br/> 2:Truth funtions - or not?<br/> 3:Names and quantifiers: is nothing something?<br/> 4:Descriptions and existence: did the Greeks worship Zeus?<br/> 5:Self-reference: What is this  about?<br/> 6:Necessity and possibility: what will be must be?<br/> 7:Conditionals: what's in an <i>if</i>?<br/> 8:The future and the past: is time real?<br/> 9:Identity and change: is anything ever the same?<br/> 10:Vagueness: how do you stop sliding down a slippery slope?<br/> 11:Probability: the strange case of the missing reference class<br/> 12:Inverse probability: you can't be indifferent about it!<br/> 13:Decision theory: great expectations<br/> 14:Halt! What goes there?<br/> 15:Maybe it is true - but you can't prove it!<br/> A little history and some further reading<br/>  Problems<br/> Problem solutions<br/> </p>"
   },
   {
     Title: "Love",
@@ -2413,7 +2411,7 @@ export const new_toc_data = [
     Overview:
       "\nMagic is a topic of constant fasciation and interest which can described in various ways - supernatural, superstition, simple illusion, religious miracles, and fantasies of the imagination\nWide-ranging overview of how magic has been defined, understood, and practised\nHighlights the controversy, conflict, and debate it has caused over the last two millennia\nConsiders how magic and science are intertwined\nSplit into two main sections: theory and practice\nPart of the bestselling Very Short Introductions series - over three million copies sold worldwide\n",
     TOC:
-      "<p> 1:Anthropologies of magic<br/> 2:Historical perspectives<br/> 3:All in the mind?<br/> 4:Writing magic<br/> 5:Practising magic<br/> 6:Magic and the modern world<br/> Conclusion<br/></p>"
+      "<p> 1:Anthropologies of magic<br/> 2:Historical perspectives<br/> 3:All in the mind?<br/> 4:Writing magic<br/> 5:Practising magic<br/> 6:Magic and the modern world<br/> </p>"
   },
   {
     Title: "Magna Carta",
@@ -2665,7 +2663,7 @@ export const new_toc_data = [
     Overview:
       "\nOffers a fresh, clear approach to the story of modern architecture, involving the latest scholarship\nConsiders the technical innovations that opened-up the cultural and intellectual opportunities for modern architecture to happen\nUses examples from around the world to demonstrate how buildings stand for particular architectural ideas\nExplores how buildings can be studied for their insights into the values of the individuals and cultures who produced, designed, and inhabited them\nPart of the Very Short Introductions series - over nine million copies sold worldwide\n",
     TOC:
-      "<p>1.: 2.:Iron and steel<br/> 3.:Reinforced concrete<br/> 4.:Brick<br/> 5.:Light and air<br/> 6.: Bibliography<br/> </p>"
+      "<p>1.: 2.:Iron and steel<br/> 3.:Reinforced concrete<br/> 4.:Brick<br/> 5.:Light and air<br/> </p>"
   },
   {
     Title: "Modern Art",
@@ -2721,7 +2719,7 @@ export const new_toc_data = [
     Overview:
       "\nCovers the history of Italy from the Risorgimento (Resurgence), the movement leading to Italian Unification in 1861, to the present\nAddresses the question of whether modern Italy is a modern country, and explores the extent to which modernity still represents a shared vision among Italian intellectuals, political leaders, and ordinary people\nContemplates themes of identity and asks what Modern Italy stands for by looking at the different cultural and political projects of modernity which have unfolded in Italy since the Risorgimento\nPart of the Very Short Introductions series - over seven million copies sold worldwide\n",
     TOC:
-      "<p> 1:Projects of modernity<br/> 2:Governing Italy<br/> 3:Made in Italy<br/> 4:Emigration, immigration and citizenship<br/> 5:Art, culture, sport and diplomacy: Italy's 'soft' power<br/> Conclusion<br/>   </p>"
+      "<p> 1:Projects of modernity<br/> 2:Governing Italy<br/> 3:Made in Italy<br/> 4:Emigration, immigration and citizenship<br/> 5:Art, culture, sport and diplomacy: Italy's 'soft' power<br/>  </p>"
   },
   {
     Title: "Modern Japan",
@@ -2945,7 +2943,7 @@ export const new_toc_data = [
     Overview:
       "\nThis Very Short Introduction tells you everything about 'nothing' - it is the story of how scientists have been puzzled by the physical problem of what remains when you take all the matter away.\nA lively and stimulating guide, taking the reader from ancient ideas and cultural superstitions about the void, via the theories of Newton and Einstein, to the frontiers of current research in today's powerful particle accelerators\nReveals how the vacuum is far from being empty - that in fact it seethes with particles that spontaneously erupt into being - and how this provides fascinating clues about how the universe began, and what was there before\nTells the tale of the mysterious 'aether' that was long ago supposed to permeate the void - how Einstein did away with it, and how the latest research into the 'Higgs field' may mean it is making a comeback\nAsks fascinating questions such as: Would nothing exist if there was no one to observe it? Where did everything come from? What lies outside the universe, and what is it expanding into?\n",
     TOC:
-      "<p>1:Much Ado About Nothing<br/> 2:How Empty is an Atom?<br/> 3:Space<br/> 4:Waves in What?<br/> 5:Travelling on a Light Beam<br/> 6:The Cost of Free Space<br/> 7:The Infinite Sea<br/> 8:The Higgs Vacuum<br/> 9:The New Void<br/>  Bibliography<br/> </p>"
+      "<p>1:Much Ado About Nothing<br/> 2:How Empty is an Atom?<br/> 3:Space<br/> 4:Waves in What?<br/> 5:Travelling on a Light Beam<br/> 6:The Cost of Free Space<br/> 7:The Infinite Sea<br/> 8:The Higgs Vacuum<br/> 9:The New Void<br/> </p>"
   },
   {
     Title: "Nuclear Physics",
@@ -3043,7 +3041,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores the history and origins of Paganism\nReveals attitudes towards the practices of pagans from the ancient world to the present day\nWritten in a concise and lively style, providing an engaging introduction\nDiscusses various ways in which 'pagan' and 'paganism' have been defined and used from antiquity to the present\nPart of the bestselling Very Short Introductions series\n",
     TOC:
-      "<p>Introduction: Defining Paganism<br/> 1:Ancient world<br/> 2:Paganism in retreat<br/> 3:Gods in the North<br/> 4:Pagans across the oceans<br/> 5:Embracing the pagan past<br/> 6:Return of the old gods<br/> Conclusion<br/></p>"
+      "<p>Introduction: Defining Paganism<br/> 1:Ancient world<br/> 2:Paganism in retreat<br/> 3:Gods in the North<br/> 4:Pagans across the oceans<br/> 5:Embracing the pagan past<br/> 6:Return of the old gods<br/></p>"
   },
   {
     Title: "Pakistan",
@@ -3078,14 +3076,14 @@ export const new_toc_data = [
     Overview:
       "\nProvides a succinct analysis of the evolution of the concept of peace\nClearly explains the concepts, theory, and terminology related to all aspects of peace\nExamines the international institutions of peace, civil peace, and conflict resolution\nConsiders the reality of peacekeeping, peacebuilding, and statebuilding\nPart of the bestselling Very Short Introductions series\n",
     TOC:
-      "<p>Introduction: The multiple dimensions of peace<br/> 1:A brief history of debates and practices of peace<br/> 2:Modern assumptions about peace<br/> 3:A victors' peace and beyond<br/> 4:The constitutional peace<br/> 5:The institutional peace<br/> 6:A civil peace<br/> 7:Liberal peacebuilding and statebuilding<br/> 8:Hybrid forms of peace<br/> Conclusion<br/></p>"
+      "<p>Introduction: The multiple dimensions of peace<br/> 1:A brief history of debates and practices of peace<br/> 2:Modern assumptions about peace<br/> 3:A victors' peace and beyond<br/> 4:The constitutional peace<br/> 5:The institutional peace<br/> 6:A civil peace<br/> 7:Liberal peacebuilding and statebuilding<br/> 8:Hybrid forms of peace<br/> </p>"
   },
   {
     Title: "Pentecostalism",
     Overview:
       "\nComprehensive introduction examining both the historical and global nature of Pentecostalism\nWell balanced coverage looking at historical, sociological, and political aspects\nOutlines theological view point - looks at the main beliefs of Pentecostals\nConsiders the future for Pentecostals and Christians in general\n",
     TOC:
-      "<p>History<br/> 1:Origins and characteristics<br/> 2:The United States<br/> 3:Regional survey<br/> Theology<br/> 5:Glossolalia, healing, wealth and spiritual warfare<br/> Sociology<br/> 6:Cells and megachurches<br/> 7:Black and white, Ecumenism and politics<br/> Conclusion<br/> 8:Pentecostalism for the 21st century<br/>  Bibliography<br/> </p>"
+      "<p>History<br/> 1:Origins and characteristics<br/> 2:The United States<br/> 3:Regional survey<br/> Theology<br/> 5:Glossolalia, healing, wealth and spiritual warfare<br/> Sociology<br/> 6:Cells and megachurches<br/> 7:Black and white, Ecumenism and politics<br/>  8:Pentecostalism for the 21st century<br/>  </p>"
   },
   {
     Title: "Perception",
@@ -3099,7 +3097,7 @@ export const new_toc_data = [
     Overview:
       "\nAssuming no previous knowledge of philosophy, this is a highly accesible account of how modern philosophers think and work\nPresents a distinctive view of philosophy, arguing that it is far more scientific than many philosophers think\nIncludes a wealth of examples from history charting the successes and failures of philosophical thinking\nOffers a timely and much needed intervention in the current hot debate on philosophical methodology\nWritten by one of Britain's leading philosophers\nPart of the Very Short Introductions series - over ten million copies sold wordlwide\nPreviously published in hardback as Doing Philosophy\n",
     TOC:
-      "<p> 1: 2:Starting from common sense<br/> 3:Disputing<br/> 4:Clarifying terms<br/> 5:Doing thought experiments<br/> 6:Comparing theories<br/> 7:Deducing<br/> 8:Using the history of philosophy<br/> 9:Using other fields<br/> 10:Model-building<br/> 11:Conclusion: the future of philosophy<br/> References and </p>"
+      "<p> 1: 2:Starting from common sense<br/> 3:Disputing<br/> 4:Clarifying terms<br/> 5:Doing thought experiments<br/> 6:Comparing theories<br/> 7:Deducing<br/> 8:Using the history of philosophy<br/> 9:Using other fields<br/> 10:Model-building<br/> 11:Conclusion: the future of philosophy<br/> </p>"
   },
   {
     Title: "Philosophy in the Islamic World",
@@ -3155,7 +3153,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces important themes in philosopy such as ethics, knowledge, and the self\nIncludea a new  on free will, discussing determinism and indeterminism in the context of the work of Descartes and Hegel\nIncludes Eastern philosophy and thinkers from the Continental tradition as well as from Anglo-American philosophy\nDiscusses how philosophy has been used in the interests of particular groups, such as the priesthood, women, animals, and political activists\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p>1:Philosophy: A Very Short  2:What should I do? Plato's <i>Crito</i><br/> 3:How do we know? Hume's, <i>Of Miracles</i><br/> 4:What am I? An unknown Buddhist on the Self: King Milinda's chariot<br/> 5:Some themes<br/> 6:Of 'isms'<br/> 7:Some more high spots: a personal selection<br/> 8:Freedom of the will<br/> 9:What's in it for whom<br/> Bibliography<br/> Where to go next<br/> </p>"
+      "<p>1:Philosophy: A Very Short  2:What should I do? Plato's <i>Crito</i><br/> 3:How do we know? Hume's, <i>Of Miracles</i><br/> 4:What am I? An unknown Buddhist on the Self: King Milinda's chariot<br/> 5:Some themes<br/> 6:Of 'isms'<br/> 7:Some more high spots: a personal selection<br/> 8:Freedom of the will<br/> 9:What's in it for whom<br/> Where to go next<br/> </p>"
   },
   {
     Title: "Photography",
@@ -3491,7 +3489,7 @@ export const new_toc_data = [
     Overview:
       "\nIncludes the key rhetorical concepts and techniques\nHelps the reader develop a critical appreciation of the rhetoric of others\nUses historical examples to illustrate the main issues\nConsiders the use of rhetoric in a number of different contexts\nPart of the bestselling Very Short Introductions series\n",
     TOC:
-      "<p> 1:From the Greeks to Gladstone<br/> 2:The scaffolding of rhetoric<br/> 3:Approaches to rhetoric<br/> 4:Rhetoric in the modern world<br/> Conclusion<br/></p>"
+      "<p> 1:From the Greeks to Gladstone<br/> 2:The scaffolding of rhetoric<br/> 3:Approaches to rhetoric<br/> 4:Rhetoric in the modern world<br/> </p>"
   },
   {
     Title: "Risk",
@@ -3631,7 +3629,7 @@ export const new_toc_data = [
     Overview:
       "\nA concise, lively, and at times opinionated account of Scottish history, politics, society, religion, and culture - both past and present\nLooks at the Scottish diaspora, and Scotland's relationship with Britain, Europe, the US, and the wider world\nExplains why Scottish national identity is so distinctive today\nLooks at current issues such as devolution, the Scottish economy, and the environment\n",
     TOC:
-      "<p> 1:Politics and Government<br/> 2:Religion<br/> 3:Education<br/> 4:Society<br/> 5:Economy and Environment<br/> 6:Scotland and the Wider World<br/> 7:Culture<br/> Conclusions<br/></p>"
+      "<p> 1:Politics and Government<br/> 2:Religion<br/> 3:Education<br/> 4:Society<br/> 5:Economy and Environment<br/> 6:Scotland and the Wider World<br/> 7:Culture<br/> </p>"
   },
   {
     Title: "Secularism",
@@ -3764,7 +3762,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the life and philosophy of Socrates, whose work has played a central role in shaping Western philosophical thinking for centuries\nIncludes a new  analysing the reception and influence of Socrates in 19th and 20th century philosophical thought\nNew edition includes an extensively updated bibliography\nExamines what we can deduce about Socrates from the writings of his contemporaries (as he himself left none)\nTraces the reception and influence of his thought to the modern day\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p>1: 2:Life<br/> 3:Socratic literature and the Socratic problem<br/> 4:Plato's Socrates<br/> 5:Socrates and later philosophy<br/> 6:Conclusion<br/></p>"
+      "<p>1: 2:Life<br/> 3:Socratic literature and the Socratic problem<br/> 4:Plato's Socrates<br/> 5:Socrates and later philosophy<br/> </p>"
   },
   {
     Title: "Soft Matter",
@@ -3806,7 +3804,7 @@ export const new_toc_data = [
     Overview:
       "\nWritten by one of the most eminent scholars and writers on spirituality\nLooks at the impact of spirituality on religion and philosophy, but also on anthropology and psychology\nConsiders the historical foundations of spirituality in the major world religions\nExplores the concept of the spiritual 'experience' and considers the impact and transformation it has on society\nPart of the bestselling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p> 1:Types and traditions<br/> 2:Spirituality as experience<br/> 3:Spirituality as way of life<br/> 4:Spirituality in society<br/> 5:Spirituality versus religion?<br/> Conclusion<br/></p>"
+      "<p> 1:Types and traditions<br/> 2:Spirituality as experience<br/> 3:Spirituality as way of life<br/> 4:Spirituality in society<br/> 5:Spirituality versus religion?<br/> </p>"
   },
   {
     Title: "Sport",
@@ -4156,7 +4154,7 @@ export const new_toc_data = [
     Overview:
       "\nFocusses specifically on the Christian Devil, exploring all of the issues and debates about the Devil from the ancient to the modern\nHighlights the Devil's place in the history of ideas and how he has shaped thought about our past\nConsiders the many guises and meanings of the Devil represented in the Bible\nEmphasises the influence the Devil has had on many forms of popular culture, including art, literature, and even language\nPart of the bestselling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p> 1:A short history of the Devil<br/> 2:The Devil and humankind<br/> 3:Depicting the Devil<br/> 4:Satan in a secular age<br/> Conclusion<br/></p>"
+      "<p> 1:A short history of the Devil<br/> 2:The Devil and humankind<br/> 3:Depicting the Devil<br/> 4:Satan in a secular age<br/> </p>"
   },
   {
     Title: "The Earth",
@@ -4527,14 +4525,14 @@ export const new_toc_data = [
     Overview:
       "\nOnly introduction to the Russian Revolution to be written after the fall of Communism\nNew sources and archives made available since the fall of Communism are used as sources in Smith's introduction making most up-to date introduction available\nConcise, accessible, and illustrated introduction to key moment in Soviet history\nTreats all aspects and effects of the revolution, from political to social and economic developments\nControversial new perspectives, indicating the Bolsheviks had real choices and their decisions helped bring about Stalinism.\n",
     TOC:
-      "<p>1:The February Revolution and Provisional Government<br/> 2:Social Polarization and the Crisis of Power<br/> 3:Politics in the Civil War<br/> 4:Society and Economy in the Civil War<br/> 5:NEP Economy and Politics<br/> 6:NEP Culture and Society<br/> Conclusion<br/></p>"
+      "<p>1:The February Revolution and Provisional Government<br/> 2:Social Polarization and the Crisis of Power<br/> 3:Politics in the Civil War<br/> 4:Society and Economy in the Civil War<br/> 5:NEP Economy and Politics<br/> 6:NEP Culture and Society<br/> </p>"
   },
   {
     Title: "The Scientific Revolution",
     Overview:
       "\nIncludes refreshing new insights on developments in early modern science\nEmphasizes the sociological context of the period and the world view at the time\nCovers several areas of science including physics, astronomy, chemistry, life sciences, and medicine and introduces the characters and people of the time\nPart of the bestselling Very Short Introductions series\n",
     TOC:
-      "<p>Introduction: science and natural philosophy<br/> 1:New worlds and old worlds<br/> 2:The connected world<br/> 3:The superlunar world<br/> 4:The sublunar world<br/> 5:The microcosm and the living world<br/> 6:The artificial world<br/> 7:Building a world of science<br/> Conclusion<br/></p>"
+      "<p>Introduction: science and natural philosophy<br/> 1:New worlds and old worlds<br/> 2:The connected world<br/> 3:The superlunar world<br/> 4:The sublunar world<br/> 5:The microcosm and the living world<br/> 6:The artificial world<br/> 7:Building a world of science<br/> </p>"
   },
   {
     Title: "The Short Story",
@@ -4555,7 +4553,7 @@ export const new_toc_data = [
     Overview:
       "\nTakes a refreshing thematic approach to the history of the Soviet Union - exploring its social, historical, political, and cultural impact\nCharacterises the workings of Soviet society and its political system through from 1917-1991\nEmphasies the contradictions and paradoxes of this large and complex state\nProvides an up-to-date consideration of the Soviet Unions's impact and what we have learnt since its end\n",
     TOC:
-      "<p>1:Future and past<br/> 2:Coercion and participation<br/> 3:Poverty and wealth<br/> 4:Elite and masses<br/> 5:Patriotism and multinationalism<br/> 6:West and East<br/> Conclusion<br/></p>"
+      "<p>1:Future and past<br/> 2:Coercion and participation<br/> 3:Poverty and wealth<br/> 4:Elite and masses<br/> 5:Patriotism and multinationalism<br/> 6:West and East<br/> </p>"
   },
   {
     Title: "The Spanish Civil War",

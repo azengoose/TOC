@@ -23,7 +23,19 @@ export default function ParseAll() {
             );
           })}
         </div>
-        <p>Entries Displayed: Total of: {new_toc_data.length}</p>
+        <p>Total Entries Displayed:{new_toc_data.length}</p>
+        <p>
+          <Link className="link" to="/">
+            Show Only Some Entries
+          </Link>{" "}
+          |{" "}
+          <Link className="link" to="/a">
+            About
+          </Link>
+          <Link className="link" to="/all">
+            Top of Page
+          </Link>
+        </p>
       </div>
     </>
   );
