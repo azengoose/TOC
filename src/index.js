@@ -1,19 +1,22 @@
-//import { StrictMode } from "react";
-//import { createRoot } from "react-dom/client";
-
+import { createRoot } from "react-dom/client";
 import React from "react";
-import ReactDOM from "react-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import App from "./App";
-import { BrowserRouter as Router } from "react-router-dom";
+import About from "./About";
+import ParseAll from "./ParseAll";
 
-// const rootElement = document.getElementById("root");
-// const root = createRoot(rootElement);
+const rootElement = document.getElementById("root");
+const root = createRoot(rootElement);
 
-ReactDOM.render(
+root.render(
   <React.StrictMode>
-    <Router>
-      <App />
-    </Router>
-  </React.StrictMode>,
-  document.getElementById("root")
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<App />} />
+        <Route path="/a" element={<About />} />
+        <Route path="/all" element={<ParseAll />} />
+      </Routes>
+    </BrowserRouter>
+  </React.StrictMode>
 );
