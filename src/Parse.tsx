@@ -3,6 +3,8 @@ import { new_toc_data } from "./data/new_toc_data";
 import parse from "html-react-parser";
 import { Link } from "react-router-dom";
 
+import Title from "./Title";
+
 export default function Parse() {
   const scrollToTop = () => {
     window.scrollTo(0, 0);
@@ -18,6 +20,7 @@ export default function Parse() {
   // }
   return (
     <>
+      <Title />
       <div className="alltoc-container">
         <div className="grid-wrapper">
           {dummy_toc_data.map((element, index) => {
