@@ -235,7 +235,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores the extraordinary diversity of amphibians, from the history of early tetrapods to the 8,000 species of amphibians alive today\nDiscusses the evolutionary history of amphibians, and the adaptations which have equipped them to occupy their interphase habitat between freshwater and land\nAnalyses the fascinating courtship and parental behaviour of various species\nContemplates the threats to amphibians which humans pose, and their possible risk of extinction\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p>List of figures<br/> 1:What is an amphibian?<br/> 2:The evolution of amphibian<br/> 3:Reproduction and life histories<br/> 4:How amphibians move<br/> 5:How amphibians feed<br/> 6:The amphibians' world: sense organs and communication<br/> 7:Amphibians and humans<br/> 8:Conservation and the future of amphibians<br/>  </p>"
+      "<p>1:What is an amphibian?<br/> 2:The evolution of amphibian<br/> 3:Reproduction and life histories<br/> 4:How amphibians move<br/> 5:How amphibians feed<br/> 6:The amphibians' world: sense organs and communication<br/> 7:Amphibians and humans<br/> 8:Conservation and the future of amphibians<br/>  </p>"
   },
   {
     Title: "Anaesthesia",
@@ -620,7 +620,7 @@ export const new_toc_data = [
     Overview:
       "\nRemains one of the most accessible introductions to Buddhism\nIntroduces the teachings of the Buddha and the integration of Buddhism into daily life\nLooks at the distinctive features of Buddhism and how it differs from other religions\nExamines how Buddhist thought has developed over the centuries, including the contemporary spread in to Asia\nPart of the best-selling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p> List of maps<br/>  Note on citations and pronunciation<br/> 1:Buddhism and elephants<br/> 2:The Buddha<br/> 3:Karma and rebirth<br/> 4:The Four Noble Truths<br/> 5:The Mahayana<br/> 6:The spread of Buddhism in Asia<br/> 7:Meditation<br/> 8:Ethics<br/> 9:Buddhism in the West<br/> Timeline<br/>  </p>"
+      "<p>1:Buddhism and elephants<br/> 2:The Buddha<br/> 3:Karma and rebirth<br/> 4:The Four Noble Truths<br/> 5:The Mahayana<br/> 6:The spread of Buddhism in Asia<br/> 7:Meditation<br/> 8:Ethics<br/> 9:Buddhism in the West<br/> Timeline<br/>  </p>"
   },
   {
     Title: "Buddhist Ethics",
@@ -683,7 +683,7 @@ export const new_toc_data = [
     Overview:
       "\nThought-provoking introduction to a core topic in philosophy\nAn engaging introduction to the key theories of causation and the surrounding debates and controversies\nExplores the integral part causation plays in a number of different areas, including physics, biology, law, technology, medicine, and economics\nExplains the key issues through a series of questions relating to the big issues\nPart of the bestselling Very Short Introductions series - over six million copies sold worldwide\n",
     TOC:
-      "<p>Introduction: why causation?<br/> 1:The problem, or: what's the matter with causation?<br/> 2:Regularity, or: causation without connection?<br/> 3:Time and space, or: do causes occur before their effects?<br/> 4:Necessity, or: do causes guarantee their effects?<br/> 5:Counterfactual dependence, or: do causes make a difference?<br/> 6:Physicalism, or: is it all transference?<br/> 7:Pluralism, or: is causation many different things?<br/> 8:Primitivism, or: is causation the most basic thing?<br/> 9:Dispositionalism, or: what tends to be?<br/> 10:Finding causes, or: where are they?<br/> A very short afterword<br/>  </p>"
+      "<p>1:The problem, or: what's the matter with causation?<br/> 2:Regularity, or: causation without connection?<br/> 3:Time and space, or: do causes occur before their effects?<br/> 4:Necessity, or: do causes guarantee their effects?<br/> 5:Counterfactual dependence, or: do causes make a difference?<br/> 6:Physicalism, or: is it all transference?<br/> 7:Pluralism, or: is causation many different things?<br/> 8:Primitivism, or: is causation the most basic thing?<br/> 9:Dispositionalism, or: what tends to be?<br/> 10:Finding causes, or: where are they?<br/> A very short afterword<br/>  </p>"
   },
   {
     Title: "Chaos",
@@ -718,7 +718,7 @@ export const new_toc_data = [
     Overview:
       "\nConsiders how children's literature has helped to shape and direct ideas about culture, society and childhood\nLooks at different types of children's literature from picture books and explicit young adult fiction to computer games and eBooks\nRaises questions about the future of children's literature; what shape should it take?\nIdeal starting point for anyone studying children's literature, or who is simply interested in understanding why it is so popular with students, and why adults are now reading children's books\nExplores the crossover with adult fiction, considering how far negative depictions of the future for children may contribute to a lack of social vision\nPart of the bestselling Very Short Introductions series - over three million copies sold worldwide\n",
     TOC:
-      "<p>Introduction: What is children's literature?<br/> 1:An outline history of publishing for children<br/> 2:Why and how are children's books studied?<br/> 3:Transforming the texts of childhood<br/> 4:Genres and generations - and the case of the family story<br/> 5:Visions of the future<br/> 6:Ethical debates in children's literature<br/> Afterword<br/>   </p>"
+      "<p>1:An outline history of publishing for children<br/> 2:Why and how are children's books studied?<br/> 3:Transforming the texts of childhood<br/> 4:Genres and generations - and the case of the family story<br/> 5:Visions of the future<br/> 6:Ethical debates in children's literature<br/> Afterword<br/>   </p>"
   },
   {
     Title: "Chinese Literature",
@@ -788,7 +788,7 @@ export const new_toc_data = [
     Overview:
       "\nProvides a concise, lucid, yet broad overview of classical literature\nIncludes a range of examples of original Greek and Latin literature to explore its enduring influence and power to fascinate\nIdeal for students of classics, literature, and history, as well as for the intelligent general reader looking to learn more about the subject\n",
     TOC:
-      "<p>List of Illustrations<br/>  1:History, Genre, Text<br/> 2:Epic<br/> 3:Lyric and Personal Poetry<br/> 4:Drama<br/> 5:Historiography<br/> 6:Oratory<br/> 7:Pastoral<br/> 8:Satire<br/> 9:Novel<br/>  Maps<br/>  </p>"
+      "<p>1:History, Genre, Text<br/> 2:Epic<br/> 3:Lyric and Personal Poetry<br/> 4:Drama<br/> 5:Historiography<br/> 6:Oratory<br/> 7:Pastoral<br/> 8:Satire<br/> 9:Novel<br/>  Maps<br/>  </p>"
   },
   {
     Title: "Classical Mythology",
@@ -921,7 +921,7 @@ export const new_toc_data = [
     Overview:
       "\nProvides a modern introduction to a major field of physics that underpins silicon chips and liquid crystals, and explores deep questions about the nature and behaviour of matter\nFocuses on introducing the fundamental concepts of condensed matter physics and uses concrete examples to illustrate these\nHighlights the role of emergence (the whole is greater than the sum of the parts) in condensed matter physics\nShows how condensed matter physics links to other fields of physics and to other sciences\nPart of the bestselling Very Short Introductions series\n",
     TOC:
-      "<p>   1:What is condensed matter physics?<br/> 2:A multitude of states of matter<br/> 3:Symmetry matters<br/> 4:The order of things<br/> 5:Adventures in flatland<br/> 6:The critical point<br/> 7:Quantum matter<br/> 8:Topology matters<br/> 9:Emergence<br/> 10:The endless frontier<br/>   Appendix: List of Nobel Prizes in Condensed Matter Physics<br/> </p>"
+      "<p>   1:What is condensed matter physics?<br/> 2:A multitude of states of matter<br/> 3:Symmetry matters<br/> 4:The order of things<br/> 5:Adventures in flatland<br/> 6:The critical point<br/> 7:Quantum matter<br/> 8:Topology matters<br/> 9:Emergence<br/> 10:The endless frontier<br/> </p>"
   },
   {
     Title: "Confucianism",
@@ -1026,7 +1026,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores all aspects of the criminal justice system, from the crime itself to the courthouse, to prison and the victims of crime\nUses a number of cases to illustrate the important elements of criminal justice\nDraws upon the latest research findings from around the world\nPart of the bestselling Very Short Introductions series - over seven million copies sold worldwide\n",
     TOC:
-      "<p>  1:Introducing criminal justice<br/> 2:Between the crime and court<br/> 3:The case goes to court<br/> 4:Why punish ... and how?<br/> 5:The inside story of life inside<br/> 6:Release from prison<br/> 7:Hearing the victim?<br/> Postscript: the future of criminal justice<br/> Appendix A: Court of Appeal Judgment<br/> </p>"
+      "<p>  1:Introducing criminal justice<br/> 2:Between the crime and court<br/> 3:The case goes to court<br/> 4:Why punish ... and how?<br/> 5:The inside story of life inside<br/> 6:Release from prison<br/> 7:Hearing the victim?<br/> Postscript: the future of criminal justice<br/> </p>"
   },
   {
     Title: "Criminology",
@@ -1040,7 +1040,7 @@ export const new_toc_data = [
     Overview:
       "\nAn elegant and precise synthesis of the history of critical theory\nExplores the contributions of a gamut of well-known representatives of the critical tradition, including Theodor Adorno, Walter Benjamin, and Jurgen Habermas\nPresents a fresh, controversial interpretation of Max Horkheimer and Theodor Adorno's seminal Dialectic of Enlightenment\nA compact overview of the cluster of concepts and themes that set critical theory apart from its more traditional philosophical competitors\nPart of the bestselling Very Short Introductions series - millions of copies sold worldwide\n",
     TOC:
-      "<p>  Introduction: What is critical theory?<br/>  1: The Frankfurt School<br/>  2: A matter of method<br/>  3: Critical theory and modernism<br/>  4: Alienation and reification<br/>  5: Enlightened illusions<br/>  6: The utopian laboratory<br/>  7: The happy consciousness<br/>  8: The great refusal<br/>  9: From resignation to renewal<br/>  10: Unfinished tasks: solidarity, resistance, and global society<br/>   </p>"
+      "<p>1: The Frankfurt School<br/>  2: A matter of method<br/>  3: Critical theory and modernism<br/>  4: Alienation and reification<br/>  5: Enlightened illusions<br/>  6: The utopian laboratory<br/>  7: The happy consciousness<br/>  8: The great refusal<br/>  9: From resignation to renewal<br/>  10: Unfinished tasks: solidarity, resistance, and global society<br/>   </p>"
   },
   {
     Title: "Crystallography",
@@ -1341,7 +1341,7 @@ export const new_toc_data = [
     Overview:
       "\nCovers all the principal areas of environmental politics: its origins; ideas; parties; and the international dimension\nDiscussses environmental politics in its historical and comparative context\nContains a wide range of lively examples that illustrate the issues environmental politics faces\nPart of the bestselling Very Short Introductions series - over seven million copies sold worldwide\n",
     TOC:
-      "<p>Introduction: What is environmental politics?<br/> 1:Origins<br/> 2:Ideas<br/> 3:Movements, parties, policies<br/> 4:Local and global, North and South<br/> 5:Environmental futures<br/>  </p>"
+      "<p> 1:Origins<br/> 2:Ideas<br/> 3:Movements, parties, policies<br/> 4:Local and global, North and South<br/> 5:Environmental futures<br/>  </p>"
   },
   {
     Title: "Enzymes",
@@ -1460,7 +1460,7 @@ export const new_toc_data = [
     Overview:
       "\nA wide ranging account discussing everything from production and design, couture, and retailing to the wider role of fashion in society\nCovers the ethical and controversial aspects of fashion such as fur, exploitative trading, poor working conditions for labourers and ethical goods\nRebecca Arnold is a highly regarded writer on 20th-century fashion\n",
     TOC:
-      "<p>Introduction: What Is Fashion?<br/> 1:Designers<br/> 2:Art<br/> 3:Industry<br/> 4:Shopping<br/> 5:Ethics<br/> 6:Globalisation<br/> Conclusion: The End of Fashion?<br/>  </p>"
+      "<p>1:Designers<br/> 2:Art<br/> 3:Industry<br/> 4:Shopping<br/> 5:Ethics<br/> 6:Globalisation<br/> Conclusion: The End of Fashion?<br/>  </p>"
   },
   {
     Title: "Federalism",
@@ -1761,14 +1761,14 @@ export const new_toc_data = [
     Overview:
       "\nExplains how Global Islam expanded via different phases and mechanisms of globalization from 1870 to the present-day\nWritten to inform beginners and specialists alike\nOffers a clear definition and interpretive model of Global Islam to explain the interplay between Islam and globalization\n",
     TOC:
-      "<p> Introduction: What Is 'Global Islam'?<br/>  1: Islam in the Age of Empire, Steam and Print<br/>  2: Muslim Transnationalism between Socialism and Nationalism<br/>  3: From Islamic Revolutions to the Internet<br/>  </p>"
+      "<p> 1: Islam in the Age of Empire, Steam and Print<br/>  2: Muslim Transnationalism between Socialism and Nationalism<br/>  3: From Islamic Revolutions to the Internet<br/>  </p>"
   },
   {
     Title: "Globalization",
     Overview:
       "\nCompletely revised and updated to include the latest developments in the field of global studies\nShows how the transformative powers of globalization reach deeply into the political, cultural, technological, and ecological dimensions of contemporary social life\nExplores the ideological aspects of globalization - looking at political movements both for and against globalization\nPart of the bestselling Very Short Introductions series - over ten million copies sold\n",
     TOC:
-      "<p>List of abbreviations<br/>  List of maps<br/> List of figures<br/> 1:What is globalization?<br/> 2:Globalization in history<br/> 3:The economic dimension of globalization<br/> 4:The political dimension of globalization<br/> 5:The cultural dimension of globalization<br/> 6:The ecological dimension of globalization<br/> 7:Ideological confrontations over globalization<br/> 8:The future of globalization<br/>  </p>"
+      "<p>1:What is globalization?<br/> 2:Globalization in history<br/> 3:The economic dimension of globalization<br/> 4:The political dimension of globalization<br/> 5:The cultural dimension of globalization<br/> 6:The ecological dimension of globalization<br/> 7:Ideological confrontations over globalization<br/> 8:The future of globalization<br/>  </p>"
   },
   {
     Title: "God",
@@ -1796,7 +1796,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores the definitions of one of the most widely used and yet least understood concepts\nConsiders the main contemporary theories of governance and the interaction with corporate, public, and global spheres\nConsiders issues such as what makes good or bad governance\nPart of the best-selling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p>List of abbreviations<br/> 1:What is governance?<br/> 2:Organizational governance<br/> 3:Corporate governance<br/> 4:Public governance<br/> 5:Global governance<br/> 6:Good Governance<br/>  </p>"
+      "<p>1:What is governance?<br/> 2:Organizational governance<br/> 3:Corporate governance<br/> 4:Public governance<br/> 5:Global governance<br/> 6:Good Governance<br/>  </p>"
   },
   {
     Title: "Gravity",
@@ -2069,7 +2069,7 @@ export const new_toc_data = [
     Overview:
       "\nDescribes what psychologists have discovered about how and why people differ in their thinking powers\nIncludes a new  on sex differences in intelligence\nConsiders the new field of cognitive epidemiology, which draws links between intelligence and better health, less illness, and longer life\nIncludes new work on DNA testing and intelligence genetics\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p>2:What happens to intelligence as we grow older?<br/> 3:Are there sex differences in intelligence?<br/> 4:What are the contributions of environments and genes to intelligence differences?<br/> 5:Are smarter people faster?<br/> 6:What do more intelligent brains look like?<br/> 7:Does intelligence matter in the school and the workplace?<br/> 8:Does intelligence matter for good health and long life?<br/> 9:Is intelligence increasing generation after generation?<br/> 10:Do psychologists agree about intelligence differences?<br/>  Appendix: An explanation of Correlation and Meta-analysis<br/> </p>"
+      "<p>2:What happens to intelligence as we grow older?<br/> 3:Are there sex differences in intelligence?<br/> 4:What are the contributions of environments and genes to intelligence differences?<br/> 5:Are smarter people faster?<br/> 6:What do more intelligent brains look like?<br/> 7:Does intelligence matter in the school and the workplace?<br/> 8:Does intelligence matter for good health and long life?<br/> 9:Is intelligence increasing generation after generation?<br/> 10:Do psychologists agree about intelligence differences?<br/> </p>"
   },
   {
     Title: "International Law",
@@ -2090,7 +2090,7 @@ export const new_toc_data = [
     Overview:
       "\nPresents a new perspective on the nature of international relations, as more than just external relations between sovereign states\nProvides the tools for thinking about large scale historical changes in international relations, particularly the transformation from a world of empires to a world of sovereign states\nDemystifies theory, and treats it as an essential tool of analysis\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p> List of abbreviations<br/>  List of maps<br/> List of figures<br/> 1:What is international relations?<br/> 2:The global organization of political authority<br/> 3:Theory is your friend<br/> 4:War<br/> 5:Economy<br/> 6:Rights<br/> 7:Culture<br/> 8:   </p>"
+      "<p>1:What is international relations?<br/> 2:The global organization of political authority<br/> 3:Theory is your friend<br/> 4:War<br/> 5:Economy<br/> 6:Rights<br/> 7:Culture<br/> 8:   </p>"
   },
   {
     Title: "International Security",
@@ -2460,7 +2460,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the marine environment and the nature of life in the oceans, emphasizing their significance to our planet and human society\nAnalyses the impacts of human activities on ocean life and the actions required to restore ocean ecosystems\nIncludes a new final  providing an aspirational vision for the state of the Global Ocean in 2050\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p>  List of tables<br/> List of abbreviations<br/>  1:The oceanic environment<br/> 2:Marine biological processes<br/> 3:Life in the coastal ocean<br/> 4:Polar marine biology<br/> 5:Marine life in the tropics<br/> 6:Deep-ocean biology<br/> 7:Intertidal life<br/> 8:Food from the oceans<br/> 9:The future of our oceans<br/>  </p>"
+      "<p>1:The oceanic environment<br/> 2:Marine biological processes<br/> 3:Life in the coastal ocean<br/> 4:Polar marine biology<br/> 5:Marine life in the tropics<br/> 6:Deep-ocean biology<br/> 7:Intertidal life<br/> 8:Food from the oceans<br/> 9:The future of our oceans<br/>  </p>"
   },
   {
     Title: "Marketing",
@@ -2740,7 +2740,7 @@ export const new_toc_data = [
     Overview:
       "\nconsider how it can be misunderstood or misrepresented\nLooks at definition of modern war and how it has evolved\nConsiders the impact of modern warfare, including its social and cultural legacy\n",
     TOC:
-      "<p> List of illustrations and maps<br/>  1:What is modern war?<br/> 2:What causes modern wars to begin?<br/> 3:What has the experience of modern war involved?<br/> 4:What have modern wars achieved?<br/> Conclusion: war, terrorism, and the future<br/>  </p>"
+      "<p>1:What is modern war?<br/> 2:What causes modern wars to begin?<br/> 3:What has the experience of modern war involved?<br/> 4:What have modern wars achieved?<br/> Conclusion: war, terrorism, and the future<br/>  </p>"
   },
   {
     Title: "Modernism",
@@ -2971,7 +2971,7 @@ export const new_toc_data = [
     Overview:
       "\nIntroduces the main areas of classical number theory, both ancient and modern\nDraws on much historical material to present the content firmly within a historical context\nHighlights a range of applications, from the practical (cryptography) to the recreational (puzzles)\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p> List of tables<br/> 1:What is number theory?<br/> 2:Divisibility<br/> 3:Primes I<br/> 4:Congruences I<br/> 5:Diophantine equations<br/> 6:Congruences II<br/> 7:Primes II<br/> 8:The Riemann hypothesis<br/>   </p>"
+      "<p>1:What is number theory?<br/> 2:Divisibility<br/> 3:Primes I<br/> 4:Congruences I<br/> 5:Diophantine equations<br/> 6:Congruences II<br/> 7:Primes II<br/> 8:The Riemann hypothesis<br/>   </p>"
   },
   {
     Title: "Numbers",
@@ -3034,7 +3034,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores the core themes running throughout Ovid's poetic works\nSets the poet and his writing in the wider literary and social context\nDiscusses Ovid's own turbulent personal life, including his fall from grace and subsequent exile\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p> List of Illustrations<br/> 1:Introduction: P. Ovidius Naso<br/> 2:Love Poetry<br/> 3:Letters of the Heroines<br/> 4:<i>Metamorphoses</i><br/> 5:<i>Fasti</i><br/> 6:Exile Poetry<br/>  </p>"
+      "<p>1:Introduction: P. Ovidius Naso<br/> 2:Love Poetry<br/> 3:Letters of the Heroines<br/> 4:<i>Metamorphoses</i><br/> 5:<i>Fasti</i><br/> 6:Exile Poetry<br/>  </p>"
   },
   {
     Title: "Paganism",
@@ -3188,7 +3188,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores the historical impact of the plague over the centuries, focussing on how people coped with the disease and how governments fought it\nExamines the impact of plague on settlements, local histories, art and literature, and in film\nExplores the causes of historic plagues\nReflects upon the impact plagues of the past have had on modern ideas of public health\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p> List of Illustrations<br/>  1:Plague: what's in a name??<br/> 2:Pandemics and epidemics<br/> 3:Big impacts: the Black Death<br/> 4:Private horrors<br/> 5:Public health<br/> 6:Enduring images<br/> 7:The lessons of histories<br/>   </p>"
+      "<p> 1:Plague: what's in a name??<br/> 2:Pandemics and epidemics<br/> 3:Big impacts: the Black Death<br/> 4:Private horrors<br/> 5:Public health<br/> 6:Enduring images<br/> 7:The lessons of histories<br/>   </p>"
   },
   {
     Title: "Planetary Systems",
@@ -3286,7 +3286,7 @@ export const new_toc_data = [
     Overview:
       "\nConsiders who the poor are, where they live, what their lives are like, and the obstacles or barriers they face\nExamines the practical and analytical efforts which have been made to eradicate poverty and discusses what progress has been made in the past, and what we can do in the future\nLooks at what social, economic, and political constructs or institutions influence the poor\nPart of the Very Short Introductions series - over eight million copies sold worldwide\n",
     TOC:
-      "<p> List of figures<br/> List of abbreviations<br/> 1: 2:History<br/> 3:Measurement<br/> 4:Living: here and there<br/> 5:Labour markets<br/> 6:Distribution and mobility<br/> 7:Combating poverty<br/> 8:Whither poverty?<br/>  </p>"
+      "<p>1: 2:History<br/> 3:Measurement<br/> 4:Living: here and there<br/> 5:Labour markets<br/> 6:Distribution and mobility<br/> 7:Combating poverty<br/> 8:Whither poverty?<br/>  </p>"
   },
   {
     Title: "Prehistory",
@@ -3314,7 +3314,7 @@ export const new_toc_data = [
     Overview:
       "\nExplores ideas of probability and the different philosophical approaches to it\nProvides a brief account of the history of development of probability theory\nConsiders the work of some of the big players; from Galileo and Pascal to Bayes, Laplace, Poisson, and Markov\nDiscusses a wide range of applications of probability theory in science, economics, and a variety of other contexts\nPart of the bestselling Very Short Introductions series - over five million copies sold worldwide\n",
     TOC:
-      "<p>1:Fundamentals<br/> 2:The workings of probability<br/> 3:Historical sketch<br/> 4:Chance experiments<br/> 5:Making sense of probabilities<br/> 6:Games people play<br/> 7:Applications in science and operations research<br/> 8:Other applications<br/> 9:Curiosities and dilemmas<br/> Appendix - Answers to questions posed<br/></p>"
+      "<p>1:Fundamentals<br/> 2:The workings of probability<br/> 3:Historical sketch<br/> 4:Chance experiments<br/> 5:Making sense of probabilities<br/> 6:Games people play<br/> 7:Applications in science and operations research<br/> 8:Other applications<br/> 9:Curiosities and dilemmas<br/> </p>"
   },
   {
     Title: "Prohibition",
@@ -3531,7 +3531,7 @@ export const new_toc_data = [
     Overview:
       "\nOffers an up-to-date and comprehensive account of Roman Britain, including both archaeological and textual evidence\nLooks at the impact of Roman rule on Britain and its aftermath\nTraces the development of coinage during this time period and contrasts between the Early/High Empire and Late Roman Empire\n",
     TOC:
-      "<p> List of maps<br/> 1:The beginnings of British history<br/> 2:The Roman conquest<br/> 3:Britain under the late empire<br/> 4:The end of Roman rule<br/>  Chronology<br/> </p>"
+      "<p>1:The beginnings of British history<br/> 2:The Roman conquest<br/> 3:Britain under the late empire<br/> 4:The end of Roman rule<br/>  Chronology<br/> </p>"
   },
   {
     Title: "Romanticism",
@@ -3566,7 +3566,7 @@ export const new_toc_data = [
     Overview:
       "\nNothing currently available at this length and price\nRussian literature perceived as 'difficult', so short introduction useful\nPresumes no knowledge of the Russian language\n",
     TOC:
-      "<p> 1.:Testament<br/> 2.:'I Have Raised Myself a Monument': Writers Memorials, Writer Cults<br/> 3.:'Tidings of Me Will Go Out over All Great Rus': Pushkin and the Russian Literary Canon<br/> 4.:'I Shall be Famous as long as Another Poet Lives'<br/> 5.:'Awakening Noble Feelings with My Lyre': Russian Writers as 'Masters of Minds'<br/> 6.:'And don't Dispute with Fools': Male and Female Literary Roles from the Salon to the <i>Soyuz pisatele</i> (Union of Writers)<br/> 7.:'Every Tribe and Every Tongue Shall Name Me': Russian Literature and 'Prinitive Culture'<br/> 8.:'O Muse, be Obedient to the Command of God': Writing and the Spiritual and Material Worlds<br/> List of </p>"
+      "<p> 1.:Testament<br/> 2.:'I Have Raised Myself a Monument': Writers Memorials, Writer Cults<br/> 3.:'Tidings of Me Will Go Out over All Great Rus': Pushkin and the Russian Literary Canon<br/> 4.:'I Shall be Famous as long as Another Poet Lives'<br/> 5.:'Awakening Noble Feelings with My Lyre': Russian Writers as 'Masters of Minds'<br/> 6.:'And don't Dispute with Fools': Male and Female Literary Roles from the Salon to the <i>Soyuz pisatele</i> (Union of Writers)<br/> 7.:'Every Tribe and Every Tongue Shall Name Me': Russian Literature and 'Prinitive Culture'<br/> 8.:'O Muse, be Obedient to the Command of God': Writing and the Spiritual and Material Worlds<br/> </p>"
   },
   {
     Title: "Saints",
@@ -3741,7 +3741,7 @@ export const new_toc_data = [
     Overview:
       "\nConsiders the major theories in socialism, and explores its historical evolution from the French Revolution to the present day\nConsiders the impact of New Left on such questions as feminism, green issues, and direct action\nThis edition includes a new  on alternative approaches to socialism in the 21st century, with a focus on both Latin America and Europe\nPart of the Very Short Introductions series - over ten million copies sold worldwide\n",
     TOC:
-      "<p> List of Illustrations<br/>  1:Socialist traditions<br/> 2:Cuban communism and Swedish social democracy<br/> 3:New Lefts - enrichment and fragmentation<br/> 4:Beyond the Dominant Orthodoxies<br/> 5:Socialism today and tomorrow<br/>   </p>"
+      "<p>1:Socialist traditions<br/> 2:Cuban communism and Swedish social democracy<br/> 3:New Lefts - enrichment and fragmentation<br/> 4:Beyond the Dominant Orthodoxies<br/> 5:Socialism today and tomorrow<br/>   </p>"
   },
   {
     Title: "Sociolinguistics",
@@ -3951,7 +3951,7 @@ export const new_toc_data = [
     Overview:
       "\nStresses the significance of split party control and narrow margins as encouraging greater executive power\nEmphasizes the high expectations for presidents and the limits imposed by the separation of powers system\nAdds analysis of electoral campaigns, to include the 2008 economic crisis during the election\nIncorporates analysis of the recent Obama administration and includes a section on the First Ladies\n",
     TOC:
-      "<p> 1. Inventing the Presidency<br/> 2. The Presidency Finds Its Place<br/> 3. Electing Presidents (and Other Ways to Occupy the Oval Office)<br/> 4. Making and Remaking a Presidency<br/> 5. Connecting to and Leading the Government<br/> 6. Presidents at Work: Making Law and Doing Policy<br/> 7. Reform, Change, and Prospects for the Future<br/> Appendix: Presidents and Vice Presidents of the United States of America<br/>  </p>"
+      "<p> 1. Inventing the Presidency<br/> 2. The Presidency Finds Its Place<br/> 3. Electing Presidents (and Other Ways to Occupy the Oval Office)<br/> 4. Making and Remaking a Presidency<br/> 5. Connecting to and Leading the Government<br/> 6. Presidents at Work: Making Law and Doing Policy<br/> 7. Reform, Change, and Prospects for the Future<br/>  </p>"
   },
   {
     Title: "The American Revolution",
@@ -4105,7 +4105,7 @@ export const new_toc_data = [
     Overview:
       "\nCovers the entirety of the Cold War era, highlighting key players such as Stalin, de Gaulle, and Reagan\nGives equal attention to the impact of the conflict on the developing world, on the West, and on Asia\nExamines the Cold War's domestic as well as international dimensions\nWritten by a major American authority on the post-war period\nPart of the Very Short Introductions series—over ten million copies sold worldwide\n",
     TOC:
-      "<p>  List of maps<br/> 1:World War II and the destruction of the old order<br/> 2:The origins of the Cold War in Europe, 1945-50<br/> 3:Towards 'Hot War' in Asia, 1945-50<br/> 4:A global Cold War, 1950-8<br/> 5:From confrontation to detente, 1958-68<br/> 6:Cold wars at home<br/> 7:The rise and fall of superpower detente, 1968-79<br/> 8:The final phase, 1980-90<br/>  </p>"
+      "<p> 1:World War II and the destruction of the old order<br/> 2:The origins of the Cold War in Europe, 1945-50<br/> 3:Towards 'Hot War' in Asia, 1945-50<br/> 4:A global Cold War, 1950-8<br/> 5:From confrontation to detente, 1958-68<br/> 6:Cold wars at home<br/> 7:The rise and fall of superpower detente, 1968-79<br/> 8:The final phase, 1980-90<br/>  </p>"
   },
   {
     Title: "The Common Law",
@@ -4196,7 +4196,7 @@ export const new_toc_data = [
     Overview:
       "\nThoroughly revised and updated to include coverage of the huge changes that have taken place in the EU since 2013, including a discussion of the migrant crisis and the UK's decision to leave the Union\nCovers the history of the Union since 1946, looking at the various institutions and what they do\nExamines the place of the Union on the world stage, in its role as a peace-keeper and in the rise of environmental politics\nConsiders the future of the Union and the challenges and choices that may lie ahead in the 21st century\nPart of the bestselling Very Short Introductions series - over eight million copies sold worldwide\n",
     TOC:
-      "<p> Abbreviations<br/> List of boxes<br/> List of charts<br/>  List of maps<br/> 1:What the EU is for<br/> 2:How the EU was made<br/> 3:How the EU is governed<br/> 4:Single market, single currency<br/> 5:Agriculture, regions, budget: conflicts over who gets what<br/> 6:Social policy, environmental policy<br/> 7:'An area of freedom, security and justice'<br/> 8:A great civilian power...and more, or less?<br/> 9:The EU and the rest of Europe<br/> 10:The EU in the world<br/> 11:Much accomplished...but what next?<br/>    </p>"
+      "<p>1:What the EU is for<br/> 2:How the EU was made<br/> 3:How the EU is governed<br/> 4:Single market, single currency<br/> 5:Agriculture, regions, budget: conflicts over who gets what<br/> 6:Social policy, environmental policy<br/> 7:'An area of freedom, security and justice'<br/> 8:A great civilian power...and more, or less?<br/> 9:The EU and the rest of Europe<br/> 10:The EU in the world<br/> 11:Much accomplished...but what next?<br/>    </p>"
   },
   {
     Title: "The Eye",
@@ -4798,7 +4798,7 @@ export const new_toc_data = [
     Overview:
       "\nOffers a wide ranging introduction to the many types of university; from very small operations through the traditional campus to the information technology-enabled 'mega-universities'\nDiscusses the origins and concept of universities, and the different forms modern universities take across the world, including the UK and America\nConsiders the role of universities in society, and the part they play in our culture and economics\nComments on the future of higher education institutions in a digital age of distance learning\nDiscusses the relationship between fee paying students and teaching professors, and the increasing expectations of students as customers\nPart of the Very Short Introductions series - over eight million copies sold worldwide\n",
     TOC:
-      "<p> List of Illustrations<br/> 1:The enduring idea and changing ideal of the university<br/> 2:What do universities do?<br/> 3:Global patterns of higher education<br/> 4:How universities work<br/> 5:Students: getting in, getting on, getting out<br/> 6:Working in the universities: more than just a job?<br/> 7:Futures for the university<br/>   </p>"
+      "<p>1:The enduring idea and changing ideal of the university<br/> 2:What do universities do?<br/> 3:Global patterns of higher education<br/> 4:How universities work<br/> 5:Students: getting in, getting on, getting out<br/> 6:Working in the universities: more than just a job?<br/> 7:Futures for the university<br/>   </p>"
   },
   {
     Title: "Utilitarianism",
