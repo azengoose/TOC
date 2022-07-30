@@ -16,10 +16,11 @@ export default function About() {
           </Link>
         </p>
         <div className="about-container">
-          <h2 id="about-title">About Page</h2>
+          <h2 id="about-title">About this Project</h2>
           <p>
             The Table of Contents (TOC) Data on this site has been sourced from
-            the Very Short Introductions series on this{" "}
+            the Very Short Introductions series (sometimes abbreviated as VSI)
+            on this{" "}
             <a
               className="link"
               href="https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=au&lang=en&"
@@ -29,23 +30,23 @@ export default function About() {
             .
           </p>
           <p>
-            The TOCs once included Prefaces, Introductions, References,
-            Acknowledgements, Conclusions, Further Readings, all of which have
-            been uncleanly removed. My apologies. Thus, there may be remaining
-            artifacts, for example: "1: 2: ..." indicates that chapter 1 likely
-            was an Introduction, List of Illustrations or Preface perhaps.
+            The Front Matter (Prefaces, Introductions, Lists of X) and End
+            Matter (References, Acknowledgements, Conclusions, Further
+            Readings), have been uncleanly removed due to the nature of the data
+            sourced. Thus, there may be remaining artifacts, for example: "1: 2:
+            ..." indicates that chapter 1 was likely part of the Front Matter.
           </p>
           <p>
-            Basically, the data is not completely clean. I hope to update this
-            perhaps later on with data sourced from the offical Very Short
-            Introductions site.
+            Hopefully this can be updated later with data sourced from the
+            offical Very Short Introductions site with proper and consistent
+            formatting.
           </p>
           <p>
             Laying out all this TOC data reveals a lot about the way we
             structure information. It is evident, that even with the simple
-            single-layer hierarchies used by most of these entries, the choice
-            of how we decide to break down a particular subject is not at all an
-            obvious affair.
+            single-layer hierarchies used by all of these entries, the choice of
+            how we decide to break down a particular subject is not an obvious
+            decision.
           </p>
           <div className="alltoc-container" style={{ marginTop: -10 }}>
             <div className="toc-container" style={{ marginRight: 30 }}>
@@ -84,22 +85,24 @@ export default function About() {
             more or less as Natural Sciences. The structure of the Genes
             example, elaborates rather completely on the concept (each category
             includes the word 'gene'), detailing its history, classifications,
-            variants, effects and relation to evolution - and thankfully this is
-            summed up in the conclusion.
+            variants, effects and relation to evolution - and which is summed up
+            in the conclusion.
           </p>
           <p>
             On the other hand, the Earth example serves mostly as a categorical
             marker that encompasses many smaller aspects that is able to be
             included under the umbrella concept of 'Earth', such as presumably,
-            macro characteristics, Geologic time, the interior, tectonic plates
+            macro characteristics, geologic time, the interior, tectonic plates
             and their effects and earthquakes.
           </p>
           <p>
             The point is to illustrate explicitly, the differences that are
-            created by structuring concepts in certain ways. We should be
-            careful about our own structures.
+            created by structuring concepts in certain ways. From this, we can
+            learn about the various ways that information is structured and be
+            more aware and diligent with composing our own structures or models
+            of understanding.
           </p>
-          <p>Angus</p>
+          {/* <p>Angus</p> */}
         </div>
       </div>
     </>
