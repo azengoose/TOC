@@ -4,32 +4,32 @@
   ],
   "compilerOptions": {
     "strict": true,
-    "outDir": "build/dist",
-    "target": "es6",
-    "esModuleInterop": true,
+    // "outDir": "build/dist",
+    // "target": "es6",
+    // "esModuleInterop": true,
     "lib": [
       "es6",
       "dom"
     ],
-    "sourceMap": true,
-    "skipLibCheck": true,
-    "allowJs": true,
-    "jsx": "react-jsx",
-    "moduleResolution": "node",
-    "rootDir": "src",
-    "forceConsistentCasingInFileNames": true,
-    "noImplicitReturns": true,
-    "noImplicitThis": true,
-    "noImplicitAny": true,
-    "strictNullChecks": true,
-    "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true,
-    "allowSyntheticDefaultImports": true,
-    "resolveJsonModule": true,
-    "noFallthroughCasesInSwitch": true,
-    // "module": "esnext",
-    "noEmit": true,
-    "isolatedModules": true
+    "sourceMap": true
+    // "skipLibCheck": true,
+    // "allowJs": true,
+    // "jsx": "react-jsx",
+    // "moduleResolution": "node",
+    // "rootDir": "src",
+    // "forceConsistentCasingInFileNames": true,
+    // "noImplicitReturns": true,
+    // "noImplicitThis": true,
+    // "noImplicitAny": true,
+    // "strictNullChecks": true,
+    // "suppressImplicitAnyIndexErrors": true,
+    // "noUnusedLocals": true,
+    // "allowSyntheticDefaultImports": true,
+    // "resolveJsonModule": true,
+    // "noFallthroughCasesInSwitch": true,
+    // // "module": "esnext",
+    // "noEmit": true,
+    // "isolatedModules": true
   }
 }
 // /tmp/deploys/kit991/cl4zekzgz0xth0us8e8ya421b/source/
@@ -48,3 +48,16 @@
 // internal/main/run_main_module.js:17:47 error Command failed with exit code 1.
 // Cannot add property allowSyntheticDefaultImports, object is not
 // extensible at verifyTypeScriptSetup
+//TypeError: Cannot add property module, object is not extensible at 
+//verifyTypeScriptSetup (/tmp/deploys/kit991/cl68ipzbj123v0us878zg5azb/source/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js:239:43) 
+//at Object.<anonymous> (/tmp/deploys/kit991/cl68ipzbj123v0us878zg5azb/source/node_modules/react-scripts/scripts/build.js:31:1) 
+// at Module._compile (internal/modules/cjs/loader.js:1063:30) at Object.Module._extensions..js 
+//(internal/modules/cjs/loader.js:1092:10) at 
+//Module.load (internal/modules/cjs/loader.js:928:32) at 
+//Function.Module._load (internal/modules/cjs/loader.js:769:14) at 
+//Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12) 
+//at internal/main/run_main_module.js:17:47 error Command failed with exit code 1.
+//
+//yarn run v1.22.5 $ react-scripts build error TS6046: 
+//Argument for '--jsx' option must be: 'preserve', 'react-native', 'react'. info 
+//Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command. | error Command failed with exit code 1.
