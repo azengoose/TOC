@@ -2170,12 +2170,6 @@ export const new_toc_data = [
       "<p>Notes on editions<br/>  1:Jane Austen practising<br/> 2:The terrors of <i>Northanger Abbey</i><br/> 3:Sense, sensibility, society<br/> 4:The voices of <i>Pride and Prejudice</i><br/> 5:The silence at Mansfield Park<br/> 6:<i>Emma</i> and Englishness<br/> 7:Passion and <i>Persuasion</i><br/> Afterword<br/> Timeline<br/>   </p>"
   },
   {
-    Title: "Japanese Literature",
-    Overview:
-      "\nA concise overview of one of the most dynamic and diverse world literatures\nWritten by a leading scholar of Japanese culture and literature\nA concise overview of one of the most dynamic and diverse world literatures\nOffers an interpretation linking the entire literary tradition, from the eighth century to the present\nIntroduces writers largely unknown outside of Japan that can be read alongside the greatest writers of world literature.\nExplores the long history of Japanese literature, from The Tale of Genji to Natsume Sôseki's Kokoro and modern manga comic books\n",
-    TOC: "<p> 1<br/>  2<br/>  3<br/>  4<br/>  5<br/></p>"
-  },
-  {
     Title: "Jesus",
     Overview:
       "\nAttributes the four Gospels of the New Testament as the source and inspiration of every interpretation of Jesus\nFocusses on his 'humanity' and role within the the Christian faith\nPortrays a diversity of opinions about Jesus for both believers and non-believers\nExplores his identity, from the wise teacher and interpreter of the Law of Moses, to the charismatic miracle worker and the prophet of the coming kingdom of God\nDiscusses how Jesus became the object of Christian faith and worship\n",
